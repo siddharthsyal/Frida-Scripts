@@ -4,4 +4,8 @@
 
 • PBKDF.js : Logs the input parameters, output for CommonKeyDerivation library.
 
+• CommonCrypto.js : Logs the input parameters, output for CommonCrypto library.
+
+• CommonDigest.js : Logs the input parameters, output for CommonDigest library.
+
 //Usage : frida -U  -l FileManager.js -f [Bundle Identifier Here] --no-pause
